@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@font-face {
+    font-family: MontSerratBlack ;
+    src: url(fonts/Montserrat-Black.ttf);
+}
+@font-face {
+    font-family: MontserratReg;
+    src: url(fonts/Montserrat-Regular.ttf);
+}
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+    
+.lista{
+    text-decoration: none;
+    color: #FFFFFF;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0px;
+    position: relative;
+    left: 40px;
+    font-family: Raleway;
+   
+}
+
+#section{
+    border: 1px solid;
+    border-radius: 15px;
+    max-width: 90%;
+    margin: 3%;
+    padding: 1%;
+    border-color: #c9c9c9;
+}
+#sep{
+    display: flex;
+}
+#Javier{
+    width: 40%;
+}
+#text1{
+    max-width: 55%;
+    text-align: justify;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+h1{
+    text-align: center;
+    grid-gap: 12%;
+}
+.discos{
+    width: 20%;
+    max-width: 250px;
+    max-height: 300px;
+}
+
+
+#disco{
+    display: flex;
+    width: 80%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+br{
+    display: flex;
+    margin: 0 auto;
+}

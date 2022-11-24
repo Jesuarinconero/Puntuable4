@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+#cabecera{
+    padding: 10px;
+    padding-left: 15px;
+    background-color:  #24252A;
+    text-align: justify;
+    margin:0px ;
+    
+}
+.lista{
+    text-decoration: none;
+    color: #FFFFFF;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0px;
+    position: relative;
+    left: 40px;
+    font-family: Raleway;
+   
+}
+#button{
+    border: none;
+    background-color: #F81D44;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 50px;
+    text-align: right;
+    position: relative;
+    left: 800px;
+}
+#button:hover{
+    cursor: pointer;
+    font-size: 120%;
+
+}
+#section{
+    border: 1px solid;
+    border-radius: 15px;
+    max-width: 90%;
+    margin: 3%;
+    padding: 1%;
+    border-color: #c9c9c9;
+}
+#sep{
+    display: flex;
+}
+#Javier{
+    width: 40%;
+}
+#text1{
+    max-width: 55%;
+    text-align: justify;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+h1{
+    text-align: center;
+    grid-gap: 12%;
+}
+.discos{
+    width: 20%;
+    max-width: 250px;
+    max-height: 300px;
+}
+
+#cabecera2{
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    background-color:  #24252A;
+    text-align: center;
+}
+#disco{
+    display: flex;
+    width: 80%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+br{
+    display: flex;
+    margin: 0 auto;
+}

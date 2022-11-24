@@ -1,0 +1,42 @@
+#cabecera{
+    padding: 10px;
+    padding-left: 15px;
+    background-color:  #24252A;
+    text-align: justify;
+    margin:0px ;
+    
+}
+.lista{
+    text-decoration: none;
+    color: #FFFFFF;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0px;
+    position: relative;
+    left: 40px;
+    font-family: Raleway;
+   
+}
+#button{
+    border: none;
+    background-color: #F81D44;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 50px;
+    text-align: right;
+    position: relative;
+    left: 800px;
+}
+#button:hover{
+    cursor: pointer;
+    font-size: 120%;
+
+}
+#cabecera2 {
+    padding: 10px;
+    padding-left: 15px;
+    background-color: #24252A;
+    text-align: center ;
+    margin-top: 20px;
+    
+}
